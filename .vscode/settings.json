@@ -1,0 +1,7 @@
+{
+    "myhrer-bc-docs.CreatePDF": true,
+    "myhrer-bc-docs.CreatePDFCoverPage": true,
+    "myhrer-bc-docs.CreateTableOfContents": true,
+    "myhrer-bc-docs.LogoFileName": "logo",
+    "myhrer-bc-docs.UseFolderAsPdfFilename": true
+}

@@ -1,0 +1,102 @@
+name: ' Increment Version Number'
+
+run-name: "Increment Version Number in [${{ github.ref_name }}]"
+
+on:
+  workflow_dispatch:
+    inputs:
+      projects:
+        description: Comma-separated list of project name patterns if the repository is setup for multiple projects (default is * for all projects)
+        required: false
+        default: '*'
+      versionNumber:
+        description: New Version Number in main branch. Use Major.Minor (optionally add .Build for versioningstrategy 3) for absolute change, or +1, +0.1 (or +0.0.1 for versioningstrategy 3) incremental change.
+        required: false
+        default: ''
+      skipUpdatingDependencies:
+        description: Skip updating dependency version numbers in all apps.
+        type: boolean
+        default: false
+      directCommit:
+        description: Direct Commit?
+        type: boolean
+        default: false
+      useGhTokenWorkflow:
+        description: Use GhTokenWorkflow for PR/Commit?
+        type: boolean
+        default: false
+
+defaults:
+  run:
+    shell: pwsh
+
+env:
+  ALGoOrgSettings: ${{ vars.ALGoOrgSettings }}
+  ALGoRepoSettings: ${{ vars.ALGoRepoSettings }}
+
+permissions:
+  contents: read
+
+jobs:
+  IncrementVersionNumber:
+    needs: [ ]
+    runs-on: [ ubuntu-latest ]
+    permissions:
+      actions: read
+      contents: write
+      id-token: write
+      pull-requests: write
+    steps:
+      - name: Dump Workflow Information
+        uses: Freddy-D4P/AL-Go/Actions/DumpWorkflowInfo@main
+        with:
+          shell: pwsh
+
+      - name: Checkout
+        uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6.0.1
+
+      - name: Initialize the workflow
+        id: init
+        uses: Freddy-D4P/AL-Go/Actions/WorkflowInitialize@main
+        with:
+          shell: pwsh
+
+      - name: Read settings
+        uses: Freddy-D4P/AL-Go/Actions/ReadSettings@main
+        with:
+          shell: pwsh
+
+      - name: Validate Workflow Input
+        if: ${{ github.event_name == 'workflow_dispatch' }}
+        uses: Freddy-D4P/AL-Go/Actions/ValidateWorkflowInput@main
+        with:
+          shell: pwsh
+
+      - name: Read secrets
+        id: ReadSecrets
+        uses: Freddy-D4P/AL-Go/Actions/ReadSecrets@main
+        with:
+          shell: pwsh
+          gitHubSecrets: ${{ toJson(secrets) }}
+          getSecrets: 'TokenForPush'
+          useGhTokenWorkflowForPush: '${{ github.event.inputs.useGhTokenWorkflow }}'
+
+      - name: Increment Version Number
+        uses: Freddy-D4P/AL-Go/Actions/IncrementVersionNumber@main
+        with:
+          shell: pwsh
+          token: ${{ steps.ReadSecrets.outputs.TokenForPush }}
+          projects: ${{ github.event.inputs.projects }}
+          versionNumber: ${{ github.event.inputs.versionNumber }}
+          skipUpdatingDependencies: ${{ github.event.inputs.skipUpdatingDependencies }}
+          directCommit: ${{ github.event.inputs.directCommit }}
+
+      - name: Finalize the workflow
+        if: always()
+        uses: Freddy-D4P/AL-Go/Actions/WorkflowPostProcess@main
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          shell: pwsh
+          telemetryScopeJson: ${{ steps.init.outputs.telemetryScopeJson }}
+          currentJobContext: ${{ toJson(job) }}
