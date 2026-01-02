@@ -1,5 +1,10 @@
 items:
-- name: index.md
+- name: Hjem
   href: index.md
+- name: Kunder/Leverandører
+  href: custvend\index.md
+- name: Underenheter
+  href: subunits\index.md
+
 - name: Backup
   href: Backup\index.md

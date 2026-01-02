@@ -1,0 +1,12 @@
+- name: Generelt
+  href: index.md
+- name: Leverandørkortet
+  href: brreg-page-vendor-card.md
+- name: Kundekortet
+  href: brreg-page-customer-card.md
+- name: Status Faktaboks
+  href: brreg-page-status-factbox.md
+- name: BRreg info fanen
+  href: brreg-info-cardpart.md
+- name: Validering av organisasjonsnummer
+  href: brreg-page-validate-orgno.md

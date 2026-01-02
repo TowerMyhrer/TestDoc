@@ -5,6 +5,10 @@
           "files": [
 		  			"Backup/**.md",
 						"Backup/**/toc.yml",
+						"custvend/**.md",
+						"custvend/**/toc.yml",
+						"subunits/**.md",
+						"subunits/**/toc.yml",
 						"toc.yml",
 						"*.md"
 					]
