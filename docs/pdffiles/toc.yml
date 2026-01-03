@@ -17,5 +17,4 @@ items:
 - name: Roller
   href: Roles\toc.yml
 - name: Oppdateringer
-  href: updates\toc.yml- name: index.md
-  href: index.md
+  href: updates\toc.yml
