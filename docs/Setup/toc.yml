@@ -1,0 +1,10 @@
+- name: Oppsett av integrasjonen
+  href: index.md
+- name: BRREG Oppsett
+  href: brreg-page-setup.md
+- name: Næringskoder
+  href: brreg-standard-industrial-classification.md
+- name: Selskapsformer
+  href: brreg-page-organizationforms.md
+- name: Kommuneliste
+  href: brreg-page-Municipality-list.md

@@ -1,0 +1,6 @@
+- name: Roller
+  href: index.md
+- name: Rolletyper
+  href: brreg-role-types.md
+- name: Rollegrupper
+  href: brreg-role-groups.md

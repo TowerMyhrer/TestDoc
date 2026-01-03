@@ -1,7 +1,13 @@
 items:
 - name: Hjem
   href: index.md
+- name: Søk
+  href: Search\index.md
+- name: Rollesenteret
+  href: rolecenter\index.md
 - name: Kunder/Leverandører
   href: custvend\index.md
 - name: Underenheter
   href: subunits\index.md
+- name: Roller
+  href: Roles\index.md

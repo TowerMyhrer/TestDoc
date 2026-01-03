@@ -5,6 +5,12 @@
           "files": [
 		  			"custvend/**.md",
 						"custvend/**/toc.yml",
+						"rolecenter/**.md",
+						"rolecenter/**/toc.yml",
+						"Roles/**.md",
+						"Roles/**/toc.yml",
+						"Search/**.md",
+						"Search/**/toc.yml",
 						"subunits/**.md",
 						"subunits/**/toc.yml",
 						"toc.yml",
@@ -29,7 +35,7 @@
       "postProcessors": [],
       "keepFileLink": false,
       "globalMetadata": {
-        "_appLogoPath": "media/logo.svg",
+        "_appLogoPath": "media/logo.svg.svg",
         "_appFaviconPath": "media/favicon.ico",
 				"pdfCoverPage": "cover.html",
 				"pdfTocPage": true,
