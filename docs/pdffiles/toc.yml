@@ -3,18 +3,18 @@ pdf: true
 order: 200
 items:
 - name: Intro
-  href: toc.yml
+  href: ..\toc.yml
 - name: Oppsett
-  href: setup\toc.yml
+  href: ..\setup\toc.yml
 - name: Rollesenteret
-  href: rolecenter\toc.yml
+  href: ..\rolecenter\toc.yml
 - name: Søk
-  href: Search\toc.yml
+  href: ..\Search\toc.yml
 - name: Kunder/Leverandører
-  href: custvend\toc.yml
+  href: ..\custvend\toc.yml
 - name: Underenheter
-  href: subunits\toc.yml
+  href: ..\subunits\toc.yml
 - name: Roller
-  href: Roles\toc.yml
+  href: ..\Roles\toc.yml
 - name: Oppdateringer
-  href: updates\toc.yml
+  href: ..\updates\toc.yml  
