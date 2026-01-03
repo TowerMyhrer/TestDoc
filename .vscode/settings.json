@@ -3,5 +3,8 @@
     "myhrer-bc-docs.CreatePDFCoverPage": true,
     "myhrer-bc-docs.CreateTableOfContents": true,
     "myhrer-bc-docs.LogoFileName": "logo",
-    "myhrer-bc-docs.UseFolderAsPdfFilename": true
+    "myhrer-bc-docs.UseFolderAsPdfFilename": true,
+    "cSpell.words": [
+        "Underenheter"
+    ]
 }
