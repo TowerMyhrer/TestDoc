@@ -1,3 +1,5 @@
+pdfFileName: Kunder-Leverandører.pdf
+items:
 - name: Generelt
   href: index.md
 - name: Leverandørkortet

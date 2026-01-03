@@ -1,3 +1,5 @@
+pdfFileName: Oppsett
+items:
 - name: Oppsett av integrasjonen
   href: index.md
 - name: BRREG Oppsett
