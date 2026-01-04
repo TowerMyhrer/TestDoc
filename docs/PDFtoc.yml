@@ -1,8 +1,0 @@
-pdfFileName: Tower_BRREG_Integrasjon.pdf
-order: 200
-items:
-- name: Intro
-  href: index.md
-- name: Oppsett
-  href: setup\toc.yml
- 
