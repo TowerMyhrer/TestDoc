@@ -1,8 +1,10 @@
 items:
 - name: Hjem
   href: index.md
+- name: setup
+  href: setup\index.md
 - name: Søk
-  href: Search\index.md
+  href: search\index.md
 - name: Rollesenteret
   href: rolecenter\index.md
 - name: Kunder/Leverandører
@@ -10,14 +12,6 @@ items:
 - name: Underenheter
   href: subunits\index.md
 - name: Roller
-  href: Roles\index.md
-- name: pdffiles
-  href: pdffiles\index.md
-- name: roles
   href: roles\index.md
-- name: search
-  href: search\index.md
-- name: setup
-  href: setup\index.md
 - name: updates
   href: updates\index.md
