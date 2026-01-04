@@ -1,6 +1,6 @@
 items:
 - name: Hjem
-  href: ../index.md
+  href: index.md
 - name: setup
   href: ../setup/index.md
 - name: Søk
