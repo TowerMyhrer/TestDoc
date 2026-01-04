@@ -16,5 +16,5 @@ Her finner du alle oppdateringer som er klare for oppdatering av Business Centra
 
 ![BRREG info - slettet](../media/updates/brreg-page-updatelog-menu-navigate.png)
 
-- Menypunkt **Åpne Nettsiden** Denne knappen fører deg til organisasjonens side på BRreg.no.
+- Menypunkt **Åpne Nettsiden** Denne knappen fører deg til organisasjonens side på BRreg.no. 
 - Menypunkt **Åpne Kunngjøringer** Denne knappen tar deg til kunngjøringene for denne organisasjonen.

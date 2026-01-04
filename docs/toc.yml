@@ -1,7 +1,7 @@
 items:
 - name: Hjem
   href: index.md
-- name: setup
+- name: Oppsett
   href: setup/index.md
 - name: Søk
   href: search/index.md

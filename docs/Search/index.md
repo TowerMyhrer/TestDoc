@@ -1,4 +1,4 @@
-# Søk i BRREG
+# Søk i BRREG 
 
 ![brreg søk](../media/search/brreg-page-search-criteria.png)
 

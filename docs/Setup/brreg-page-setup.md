@@ -9,7 +9,7 @@ I feltet **Leverandør mal** velges den malen som skal benyttes ved import fra B
 
 I feltet **Adresse for Leverandører** er valget enten *Forretningsadresse* eller *Postadresse*. Valgt adressetype blir adressen som blir hentet inn på leverandørkortet.
 
-I feltet **Tillat import av Leverandører** angir du om det skal være tillatt å importere leverandører fra BRREG og inn i Business Central. Standard er at det er lov.
+I feltet **Tillat import av Leverandører** angir du om det skal være tillatt å importere leverandører fra BRREG og inn i Business Central. Standard er at det er lov. 
 
 ## Kunder
 

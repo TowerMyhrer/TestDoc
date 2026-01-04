@@ -15,7 +15,7 @@ Trykk på **lenken** og veiviseren starter.
 
 Oppstartsbildet ser slik ut:
 
-![Veiviser side 1](../media/setup/brreg-wizzard-page1.png)
+![Veiviser side 1](../media/setup/brreg-wizzard-page1.png) 
 
 Her trykker du **neste** og kommer til side 2:
 
