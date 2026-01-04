@@ -5,8 +5,8 @@
           "files": [
 		  			"custvend/**.md",
 						"custvend/**/toc.yml",
-						"pdffiles/**.md",
-						"pdffiles/**/toc.yml",
+						"download/**.md",
+						"download/**/toc.yml",
 						"rolecenter/**.md",
 						"rolecenter/**/toc.yml",
 						"roles/**.md",

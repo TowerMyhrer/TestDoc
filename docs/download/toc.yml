@@ -1,0 +1,19 @@
+pdfFileName: Tower_BRREG_Integrasjon.pdf
+order: 200
+items:
+- name: Introduksjon
+  href: ../index.md
+- name: Oppsett
+  href: ../Setup/toc.yml
+- name: Søk
+  href: ../Search/toc.yml
+- name: Rollesenteret
+  href: ../rolecenter/toc.yml
+- name: Kunder/Leverandører
+  href: ../custvend/toc.yml
+- name: Underenheter
+  href: ../subunits/toc.yml
+- name: Roller
+  href: ../Roles/toc.yml
+- name: Oppdateringer
+  href: ../Updates/toc.yml
