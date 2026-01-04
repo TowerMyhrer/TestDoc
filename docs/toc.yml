@@ -2,16 +2,16 @@ items:
 - name: Hjem
   href: index.md
 - name: setup
-  href: ../setup/index.md
+  href: setup/index.md
 - name: Søk
-  href: ../search/index.md
+  href: search/index.md
 - name: Rollesenteret
-  href: ../rolecenter/index.md
+  href: rolecenter/index.md
 - name: Kunder/Leverandører
-  href: ../custvend/index.md
+  href: custvend/index.md
 - name: Underenheter
-  href: ../subunits/index.md
+  href: subunits/index.md
 - name: Roller
-  href: ../roles/index.md
+  href: roles/index.md
 - name: updates
-  href: ../updates/index.md
+  href: updates/index.md
