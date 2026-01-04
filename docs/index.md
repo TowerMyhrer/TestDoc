@@ -7,7 +7,7 @@ Integrasjonen oppdaterer enheter og roller og sier ifra ved slettede enheter ell
 
 ## BRREG info på leverandører og kunder
 
-![Brreg info](media/brreg-info-cardpart.png)
+![Brreg info](media/custvend/brreg-info-cardpart.png)
 
 Les mer her [BRREG info](custvend/brreg-info-cardpart.md)
 

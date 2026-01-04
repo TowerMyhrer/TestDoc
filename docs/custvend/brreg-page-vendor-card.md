@@ -11,7 +11,7 @@ Her er det hentet ut en del data fra Brønnøysundregisteret.  Dette er bare opp
 
 ## Ny faktaboks BRREG Status
 
-![BStatus Faktaboks](../custvend/media/brreg-status-factbox.png)
+![BStatus Faktaboks](../media/custvend/brreg-status-factbox.png)
 
 Her finner du nøkkelinformasjon om enheten. Bla om den er konkurs og registrert i MVA registeret.
 
