@@ -18,3 +18,6 @@ Les mer her [BRREG info](custvend/brreg-page-customer-card.md)
 ## Nytt på Leverandørkortet
 
 Les mer her [BRREG info](custvend/brreg-page-vendor-card.md)
+
+## Last ned full dokumentasjon
+Last ned dokumentasjonen her [Download PDF](download/Tower_BRREG_Integrasjon.pdf)
