@@ -11,8 +11,6 @@ items:
   href: ../rolecenter/toc.yml
 - name: Kunder/Leverandører
   href: ../custvend/toc.yml
-- name: Underenheter
-  href: ../subunits/toc.yml
 - name: Roller
   href: ../Roles/toc.yml
 - name: Oppdateringer
