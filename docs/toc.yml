@@ -14,4 +14,13 @@ items:
 - name: Roller
   href: Roles/index.md
 - name: Oppdateringer
-  href: Updates/index.md
+  href: Updates/index.md- name: download
+  href: download\index.md
+- name: roles
+  href: roles\index.md
+- name: search
+  href: search\index.md
+- name: setup
+  href: setup\index.md
+- name: updates
+  href: updates\index.md

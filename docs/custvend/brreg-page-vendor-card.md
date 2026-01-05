@@ -21,12 +21,11 @@ Her finner du nøkkelinformasjon om enheten. Bla om den er konkurs og registrert
 
 Under dette menypunktet finner du 4 nye menypunkter.
 
-- Roller
+- Kontaktrelasjoner
 - Åpne nettsiden
 - Åpne Kunngjøringer
-- Opprett underenheter
   
-### Roller
+### Kontaktrelasjoner
 
 Ved åpningen av menypunktet kommer denne siden opp:
 ![Roller](../media/custvend/brreg-show-roles.png)
@@ -44,14 +43,6 @@ Menypunktet åpner siden for organisasjonsnummeret på kundekortet.
 Dette menypunktet er en link som tar deg til brønnøysundregistrene på brreg.no.
 
 Menypunktet åpner siden med kunngjøringer for  organisasjonsnummeret på kundekortet.
-
-### Opprette Underenheter
-
-Ved åpningen av menypunktet kommer denne siden opp:
-
-Her populeres underenhetene til denne hovedenheten. Det er organisasjonsnummer som er nøkkel.
-
-Her kan du lese mer om å opprette [underenheter](../subunits/index.md).
 
 ## Opprette Leverandør fra Leverandørkortet
 

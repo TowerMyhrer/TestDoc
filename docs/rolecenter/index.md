@@ -9,14 +9,6 @@ Disse flisene kan man klikke på og kommer da inn på disse sidene:
 
 ## Informasjon i sidene
 
-### Antall konkurser
-
-![Brreg konkurs](../media/rolecenter/brreg-cue-konkurs.png)
-
-Her ser du en kunde og leverandører som er meldt konkurs her er status satt kunde sperret og leverandør sperret til  **Alle** og da settes fargen til grønn.
-
-De røde leverandørene er ikke sperret.
-
 ### Antall under avvikling
 
 ![Brreg under avvikling](../media/rolecenter/brreg-cue-under-avvikling.png)

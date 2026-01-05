@@ -12,3 +12,5 @@ items:
   href: brreg-info-cardpart.md
 - name: Validering av organisasjonsnummer
   href: brreg-page-validate-orgno.md
+- name: RF1321 Rapport
+  href: brreg-RF1321.md

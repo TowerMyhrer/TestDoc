@@ -6,4 +6,4 @@ Informasjonen blir vedlikeholdt av BRreg.no.
 
 Her et utsnitt fra tabellen:
 
-![Status Rolletyper](../media/roles/brreg-page-rolegroups.png) 
+![Status Rolletyper](../media/roles/brreg-page-roletypes.png) 

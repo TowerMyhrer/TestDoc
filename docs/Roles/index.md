@@ -1,10 +1,10 @@
-# BRREG Roller
+# BRREG Kontaktrelasjoner
 
 Denne siden viser alle roller som er knyttet til kontakten, leverandøren eller kunden.
 
-![Brreg roller](../media/roles/brreg-page-roles.png)
+![Brreg Kontaktrelasjoner](../media/roles/brreg-page-roles.png)
 
-Hvis listen er tom eller du vet du trenger en oppdatering av rollene kan du trykke på **Opprett Roller**.
+Hvis listen er tom eller du vet du trenger en oppdatering av rollene kan du trykke på **Opprett Kontakter**.
 
 Informasjonen holdes oppdatert med jobbkøen som sjekker oppdateringer fra Brønnøysund. Denne kjøres med ønsket tidsintervall.
 

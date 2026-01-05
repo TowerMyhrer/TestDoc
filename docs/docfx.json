@@ -15,8 +15,6 @@
 						"search/**/toc.yml",
 						"setup/**.md",
 						"setup/**/toc.yml",
-						"subunits/**.md",
-						"subunits/**/toc.yml",
 						"updates/**.md",
 						"updates/**/toc.yml",
 						"toc.yml",

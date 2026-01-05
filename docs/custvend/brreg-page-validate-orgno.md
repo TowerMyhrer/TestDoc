@@ -4,7 +4,7 @@ Når man står på organisasjonsnummeret og trykker på de tre prikkene kommer m
 
 ![Før Validering](../media/custvend/brreg-vatregno-before-validation.png)
 
-Organisasjonsnummeret er ikke gyldig og vi kan sjekke dette med knappen **Verifiser Norske Organisasjonsnummer**
+Organisasjonsnummeret er ikke gyldig og vi kan sjekke dette med knappen **Bekreft Norske Organisasjonsnummer**
 hvis organisasjonsnummeret finnes i BRreg.no så vil den sette feltet status til gyldig.
 
 ![Etter validering](../media/custvend/brreg-vatregno-after-validation.png)

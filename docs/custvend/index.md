@@ -8,9 +8,7 @@ Mulighet for å hente data fra BRreg.no ved bruk av organisasjonsnummeret
 
 **Nytt menypunkt**
 
-- Opprette underenheter - mulighet for å opprette underenheter
-
-- Roller - Rollene til organisasjonen hentet fra BRreg.no
+- Kontaktrelasjoner - Rollene til organisasjonen hentet fra BRreg.no
 - Kunngjøringer - Organisasjonens kunngjøringer på BRreg.no
 - Nettsiden - Åpner organisasjonens side på BRreg.no
 
@@ -23,8 +21,7 @@ Mulighet for å hente data fra BRreg.no ved bruk av organisasjonsnummeret
 
 **Nytt menypunkt**
 
-- Opprette underenheter - mulighet for å opprette underenheter
-- Roller - Rollene til organisasjonen hentet fra BRreg.no
+- Kontaktrelasjoner - Rollene til organisasjonen hentet fra BRreg.no
 - Kunngjøringer - Organisasjonens kunngjøringer på BRreg.no
 - Nettsiden - Åpner organisasjonens side på BRreg.no
 
