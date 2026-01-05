@@ -9,13 +9,10 @@ items:
   href: rolecenter/index.md
 - name: Kunder/Leverandører
   href: custvend/index.md
-- name: Underenheter
-  href: subunits/index.md
-- name: Roller
+- name: Kontaktrelasjoner
   href: Roles/index.md
 - name: Oppdateringer
-  href: Updates/index.md- name: download
-  href: download\index.md
+  href: Updates/index.md
 - name: roles
   href: roles\index.md
 - name: search
