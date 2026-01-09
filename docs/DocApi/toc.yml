@@ -6,3 +6,5 @@ items:
   href: VendorLedgerEntriesAPI.md
 - name: Detailed Vendor Ledger Entry
   href: DetailedVendorLedgerEntry.md
+- name: index.md
+  href: index.md

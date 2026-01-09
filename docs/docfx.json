@@ -9,6 +9,8 @@
 						"DocApi/**/toc.yml",
 						"FinanceImport/**.md",
 						"FinanceImport/**/toc.yml",
+						"Test/**.md",
+						"Test/**/toc.yml",
 						"toc.yml",
 						"*.md"
 					]
