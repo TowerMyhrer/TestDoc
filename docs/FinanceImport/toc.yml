@@ -1,0 +1,13 @@
+pdfFileName: FinanceImport.pdf
+items:
+- name: Finance Import
+  href: index.md
+- name: Setup
+  href: FinanceImportSetup.md
+- name: Finance Transactions
+  href: FinanceTransactions.md
+- name: Finance Transaction Archive
+  href: FinanceTransactionArchive.md
+- name: API
+  href: FinanceTransactionsAPI.md
+

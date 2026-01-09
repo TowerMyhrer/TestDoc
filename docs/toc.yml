@@ -1,23 +1,9 @@
 items:
-- name: Hjem
+- name: Introduction
   href: index.md
-- name: Oppsett
-  href: Setup/index.md
-- name: Søk
-  href: Search/index.md
-- name: Rollesenteret
-  href: rolecenter/index.md
-- name: Kunder/Leverandører
-  href: custvend/index.md
-- name: Kontaktrelasjoner
-  href: Roles/index.md
-- name: Oppdateringer
-  href: Updates/index.md
-- name: roles
-  href: Roles\index.md
-- name: search
-  href: Search\index.md
-- name: setup
-  href: Setup\index.md
-- name: updates
-  href: Updates\index.md
+- name: FinanceImport
+  href: FinanceImport\index.md
+- name: Api
+  href: Api\index.md
+- name: Changes
+  href: Changes\index.md
