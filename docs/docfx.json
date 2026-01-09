@@ -9,8 +9,8 @@
 						"DocApi/**/toc.yml",
 						"FinanceImport/**.md",
 						"FinanceImport/**/toc.yml",
-						"Test/**.md",
-						"Test/**/toc.yml",
+						"API/**.md",
+						"API/**/toc.yml",
 						"toc.yml",
 						"*.md"
 					]
@@ -42,4 +42,3 @@
       "disableGitFeatures": false
     }
   }
-  
