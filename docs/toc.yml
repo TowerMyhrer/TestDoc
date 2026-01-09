@@ -7,3 +7,5 @@ items:
   href: Api\index.md
 - name: Changes
   href: Changes\index.md
+- name: DocApi
+  href: DocApi\index.md

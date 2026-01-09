@@ -3,10 +3,10 @@
       "content": [
         {
           "files": [
-		  			"Api/**.md",
-						"Api/**/toc.yml",
-						"Changes/**.md",
+		  			"Changes/**.md",
 						"Changes/**/toc.yml",
+						"DocApi/**.md",
+						"DocApi/**/toc.yml",
 						"FinanceImport/**.md",
 						"FinanceImport/**/toc.yml",
 						"toc.yml",
@@ -31,7 +31,7 @@
       "postProcessors": [],
       "keepFileLink": false,
       "globalMetadata": {
-        "_appLogoPath": "media/logo.svg.svg",
+        "_appLogoPath": "media/logo.svg",
         "_appFaviconPath": "media/favicon.ico",
 				"pdfCoverPage": "cover.html",
 				"pdfTocPage": true,
