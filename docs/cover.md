@@ -23,7 +23,7 @@
   <h1>Test Doc</h1>
   <p>Documentation for Business Central <p>  
 </div>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div style="text-align: center; margin: auto;   width: 50%; border: 3px solid red;">
   <p>App delivered by Enora AS</p>
 </div>
