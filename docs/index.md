@@ -1,3 +1,4 @@
-# Documentation Aprila Bank
+﻿# Documentation for E-Weels
 
-This is the documentation for Aprila Bank's extensions.
+Dette er dokumentasjonen til E-Weels tilpasninger i Business Central
+

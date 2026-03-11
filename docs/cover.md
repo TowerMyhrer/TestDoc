@@ -19,11 +19,11 @@
 </style>
 <div style="background-image: url('../media/cover.png'); background-repeat: no-repeat; background-position: center; background-size: cover; width: 100%; height: 100%; display: flex; flex-direction: column">
 <br><br><br><br>
-<div style="text-align: center; margin: auto;   width: 50%; border: 3px solid DarkGreen;">
-  <h1>Test Doc</h1>
-  <p>Documentation for Business Central <p>  
+<div style="text-align: center; margin: auto;   width: 50%; border: 3px solid red;">
+  <h1>E-Weels</h1>
+  <p>Documentation for E-weels tilpasninger <p>  
 </div>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<div style="text-align: center; margin: auto;   width: 50%; border: 3px solid DarkGreen;">
-  <p>App delivered by Enora AS</p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<div style="text-align: center; margin: auto;   width: 50%; border: 3px solid red;">
+  <p>App Developed by Tower Newco AS</p>
 </div>

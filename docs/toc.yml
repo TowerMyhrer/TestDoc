@@ -1,11 +1,7 @@
-items:
-- name: Introduction
+﻿items:
+- name: Home
   href: index.md
-- name: FinanceImport
-  href: FinanceImport\index.md
-- name: Changes
-  href: Changes\index.md
-- name: DocApi
-  href: DocApi\index.md
-- name: API
-  href: API\index.md
+- name: User Guides
+  href: User/toc.yml
+- name: FEED
+  href: FEED/toc.yml

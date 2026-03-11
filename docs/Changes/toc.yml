@@ -1,6 +1,0 @@
-pdfFileName: Changes.pdf
-items:
-- name: Changes
-  href: index.md
-- name: General Ledger Entries
-  href: GeneralLedgerEntries.md  
