@@ -13,3 +13,5 @@ items:
   href: roles/index.md
 - name: Oppdateringer
   href: updates/index.md
+- name: download
+  href: download\index.md
