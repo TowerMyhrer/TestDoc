@@ -1,0 +1,20 @@
+pdfFileName: User.pdf
+items:
+- name: User Guides
+  href: README.md
+- name: Omnium Setup
+  href: omnium-setup.md
+- name: Omnium Stores
+  href: omnium-stores.md
+- name: Omnium Log
+  href: omnium-log.md
+- name: Sales Orders
+  href: sales-orders.md
+- name: Purchase Orders
+  href: purchase-orders.md
+- name: Omnium Deliveries
+  href: omnium-deliveries.md
+- name: Omnium Order Types and Payment Setup
+  href: omnium-order-types.md
+- name: Item Feed
+  href: item-feed.md
