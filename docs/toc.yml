@@ -1,11 +1,15 @@
 items:
-- name: Introduction
+- name: Hjem
   href: index.md
-- name: FinanceImport
-  href: FinanceImport\index.md
-- name: Changes
-  href: Changes\index.md
-- name: DocApi
-  href: DocApi\index.md
-- name: API
-  href: API\index.md
+- name: Oppsett
+  href: setup/index.md
+- name: Søk
+  href: search/index.md
+- name: Rollesenteret
+  href: rolecenter/index.md
+- name: Kunder/Leverandører
+  href: custvend/index.md
+- name: Kontaktrelasjoner
+  href: roles/index.md
+- name: Oppdateringer
+  href: updates/index.md

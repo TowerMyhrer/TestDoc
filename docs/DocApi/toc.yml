@@ -1,8 +1,0 @@
-pdfFileName: Api.pdf
-items:
-- name: GL Entries
-  href: index.md
-- name: Vendor Ledger Entries
-  href: VendorLedgerEntriesAPI.md
-- name: Detailed Vendor Ledger Entry
-  href: DetailedVendorLedgerEntry.md
