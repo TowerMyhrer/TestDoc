@@ -1,13 +1,13 @@
 pdfFileName: setup.pdf
 items:
-- name: Oppsett
+- name: Oppsett av integrasjonen
   href: index.md
-- name: brreg-page-Municipality-list.md
-  href: brreg-page-Municipality-list.md
-- name: brreg-page-organizationforms.md
-  href: brreg-page-organizationforms.md
-- name: brreg-page-setup.md
+- name: BRREG Oppsett
   href: brreg-page-setup.md
-- name: brreg-standard-industrial-classification.md
+- name: Kommuneliste
+  href: brreg-page-Municipality-list.md
+- name: Organisasjonsformer
+  href: brreg-page-organizationforms.md
+- name: Næringskoder
   href: brreg-standard-industrial-classification.md
 
