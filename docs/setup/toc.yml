@@ -1,13 +1,13 @@
-pdfFileName: Oppsett
+pdfFileName: setup.pdf
 items:
-- name: Oppsett av integrasjonen
+- name: Oppsett
   href: index.md
-- name: BRREG Oppsett
-  href: brreg-page-setup.md
-- name: Næringskoder
-  href: brreg-standard-industrial-classification.md
-- name: Selskapsformer
-  href: brreg-page-organizationforms.md
-- name: Kommuneliste
+- name: brreg-page-Municipality-list.md
   href: brreg-page-Municipality-list.md
-  
+- name: brreg-page-organizationforms.md
+  href: brreg-page-organizationforms.md
+- name: brreg-page-setup.md
+  href: brreg-page-setup.md
+- name: brreg-standard-industrial-classification.md
+  href: brreg-standard-industrial-classification.md
+
